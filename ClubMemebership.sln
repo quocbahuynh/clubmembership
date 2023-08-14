@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubMemebership_QuocHB_WebRazorPage.WebApp", "ClubMemebership\ClubMemebership_QuocHB_WebRazorPage.WebApp.csproj", "{17228953-FAE8-443C-B1B3-8ED7BE96B5D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubMemebership_QuocHB_WebRazorPage.Repo", "BusinessObject\ClubMemebership_QuocHB_WebRazorPage.Repo.csproj", "{F64512AC-A5AC-4DA5-879A-9BB1C630B5FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubMemebership_QuocHB_WebRazorPage.Service", "Service\ClubMemebership_QuocHB_WebRazorPage.Service.csproj", "{0A35EAC1-C17C-47C7-A552-68593AA94875}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{ABF96A2C-D015-443D-BAD1-FB0A43574A87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capture", "Capture", "{66225871-FDB1-48BA-854E-D1429454205F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database Diagram", "Database Diagram", "{974CA7E1-E50D-4AF8-939E-BD632365850A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\Memebership.drawio.png = ..\..\..\..\Downloads\Memebership.drawio.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Structure", "Code Structure", "{7F3C6EDB-55A5-4FF7-B1F6-4B3ED5575D16}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\folder_structure.png = ..\..\..\..\Downloads\folder_structure.png
+		..\..\..\..\Downloads\solution.png = ..\..\..\..\Downloads\solution.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{EE6ADFE2-F76C-4CE9-99E9-6EFCE6ACCAB8}"
+	ProjectSection(SolutionItems) = preProject
+		ClubMembership.sql = ClubMembership.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17228953-FAE8-443C-B1B3-8ED7BE96B5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17228953-FAE8-443C-B1B3-8ED7BE96B5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17228953-FAE8-443C-B1B3-8ED7BE96B5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17228953-FAE8-443C-B1B3-8ED7BE96B5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64512AC-A5AC-4DA5-879A-9BB1C630B5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64512AC-A5AC-4DA5-879A-9BB1C630B5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64512AC-A5AC-4DA5-879A-9BB1C630B5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64512AC-A5AC-4DA5-879A-9BB1C630B5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A35EAC1-C17C-47C7-A552-68593AA94875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A35EAC1-C17C-47C7-A552-68593AA94875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A35EAC1-C17C-47C7-A552-68593AA94875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A35EAC1-C17C-47C7-A552-68593AA94875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF96A2C-D015-443D-BAD1-FB0A43574A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF96A2C-D015-443D-BAD1-FB0A43574A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF96A2C-D015-443D-BAD1-FB0A43574A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF96A2C-D015-443D-BAD1-FB0A43574A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{974CA7E1-E50D-4AF8-939E-BD632365850A} = {66225871-FDB1-48BA-854E-D1429454205F}
+		{7F3C6EDB-55A5-4FF7-B1F6-4B3ED5575D16} = {66225871-FDB1-48BA-854E-D1429454205F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D471BD70-71AA-44BE-8508-B33605ED0B9B}
+	EndGlobalSection
+EndGlobal

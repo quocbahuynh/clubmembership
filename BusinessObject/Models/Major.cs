@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+
+#nullable disable
+
+namespace ClubMemebership_QuocHB_WebRazorPage.Repo.Models
+{
+    public partial class Major
+    {
+        public Major()
+        {
+            Students = new HashSet<Student>();
+        }
+
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Code { get; set; }
+        public bool IsActive { get; set; }
+
+        public virtual ICollection<Student> Students { get; set; }
+    }
+}

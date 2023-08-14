@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\bin\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.deps.json
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\bin\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.runtimeconfig.json
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\bin\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\bin\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.dll
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\bin\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.pdb
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.dll
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\refint\ClubMemebership_QuocHB_WebRazorPage.Repo.dll
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.pdb
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ClubMemebership_QuocHB_WebRazorPage.Repo.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\obj\Debug\net5.0\ref\ClubMemebership_QuocHB_WebRazorPage.Repo.dll
+C:\Users\Acer\Desktop\Projects\ASP.NET\ClubMemebership\BusinessObject\bin\Debug\net5.0\appsettings.json
